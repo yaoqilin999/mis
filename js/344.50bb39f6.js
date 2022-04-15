@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkinfosys"]=self["webpackChunkinfosys"]||[]).push([[344],{4344:function(n,s,r){r.r(s),r.d(s,{default:function(){return a}});var e=r(3396);const t={class:"_iframe"};function u(n,s){return(0,e.wg)(),(0,e.iD)("div",t," 首页 ")}var c=r(89);const f={},i=(0,c.Z)(f,[["render",u]]);var a=i}}]);
